@@ -7,5 +7,13 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "products": [
+    {
+      "type": "celular",
+      "name": "modelo",
+      "userId": 1,
+      "id": 1
+    }
   ]
 }
